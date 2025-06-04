@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ja o niebie ty o chlebie</title>
+  </head>
+  <body style="text-align:center;background-color:papayawhip;">
+    <h1 style="color:maroon;font-family:cursive;">ja o niebie ty o chlebie</h1>
+    <hr>
+    <h1 style="color:maroon;">witaj na naszej stronie!</h1>
+        <p>wszyscy lubimy chlebek i o tym jest ta strona. stronka by Lorem I.</p>
+
+    <h1 style="color:maroon;"> galeria </h1>
+        <p style="color:maroon"> memy o chlebie gorące jak świeże bułeczki ;)
+          <br>
+        <img src="galeria/idzieszkupic.jpg">
+          <br>
+        <a href="galeria/index.html"> klik! </a> </p>
+
+    <h1 style="color:maroon;"> muza </h1>
+        <p> <a href="muza/index.html"> najlepsza muza o chlebie + lyrics </a>
+        <br>
+        <a href="https://www.youtube.com/watch?v=-1-z48cJDbc">chleb mister d.</a> </p>
+
+    <h1 style="color:maroon;"> chleb powszedni </h1>
+        <p> <a href="chleb powszedni/index.html"> tutaj głupkowata krytyka wszystkiego </a> </p>
+
+    <h1 style="color:maroon;"> kartki walentynkowe </h1>
+        <p> wyznanie miłości dla twojej ukochanej bułeczki 
+             <br>
+            <img src="kartki walentynkowe/chm.jpg" width="400" height="342""> 
+             <br>
+           <a href="kartki walentynkowe/index.html"> klik </a> </p>
+
+    <h1 style="color:maroon;">poezja flarf </h1>
+
+        <p> <a href="poezja flarf/index.html"> klik </a></p>
+    
+    <h1 style="color:maroon;"> przepisy </h1>
+        <p> przepis na kajzerkę
+           <br>
+            przepis na chlebek
+           <br>
+            przepis na bagietkę czosnkową 
+           <br>
+          <a href="przepisy/index.html"> klik! </a> </p>
+
+    <h1 style="color:maroon;"> HOŁD ANIAGOTUJE.PL</h1>
+        <p> <a href="hołd aniagotuje.pl/index.html"> love u ania </a> </p>
+
+    <h1 style="color:maroon;"> HEJT NA STOWARZYSZENIE OSÓB Z CELIAKIĄ</h1>
+        <p> <a href="hejt/index.html"> celiakia nie istnieje, otwórzcie oczy, bułka to dobro najwyższe. ja jak jem bułkę to nic mi się nie dzieje i elo. </a> </p>
+
+  </body>
+</html>
